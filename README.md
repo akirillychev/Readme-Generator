@@ -31,3 +31,8 @@ THEN I am taken to the corresponding section of the README
 
 * The generated README includes 1 badge that's specific to the repository.## User Story
 
+video link
+https://drive.google.com/file/d/1Y-3JacAJ0MCaqSC9ofFjzwW-JFBgcIVJ/view
+
+Github link
+https://github.com/akirillychev/Readme-Generator

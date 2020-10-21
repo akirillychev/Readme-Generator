@@ -15,11 +15,11 @@
     ##Description
     create a readme generator
     ##Installation
-    npm install inquirer.run node index.js and answer questions
+    install packages and then run node index.js
     ##Usage
-    answer questions
+    Once you run index js it will ask questions
     ##Contributors
-    andrew kirillychev
+    Andrew
     ##License
     
     
